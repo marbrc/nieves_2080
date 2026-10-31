@@ -102,8 +102,20 @@ Ronda 10: MotorJuego, juntar todo (puntaje, victoria y derrota)
 <img width="1197" height="559" alt="image" src="https://github.com/user-attachments/assets/57254af5-bc0c-470d-846a-decb726fe587" />
 
 # verde
+<img width="946" height="234" alt="image" src="https://github.com/user-attachments/assets/db12a546-f292-412b-99c9-c4f4b2e45006" />
 
+# CAPURAS DE PANTlla
 
+<img width="376" height="830" alt="image" src="https://github.com/user-attachments/assets/658bfd57-49c8-43d3-8705-5d5940a83f10" />
+<img width="372" height="836" alt="image" src="https://github.com/user-attachments/assets/e07a0baa-7e26-4091-8b6b-85dcaa6895c0" />
+
+<img width="372" height="830" alt="image" src="https://github.com/user-attachments/assets/4b558423-75a8-4b5a-a51a-7d456052ae19" />
+
+<img width="359" height="830" alt="image" src="https://github.com/user-attachments/assets/b7d5c379-ec0d-4cf4-a67a-9778a9735070" />
+<img width="363" height="832" alt="image" src="https://github.com/user-attachments/assets/9f4c2d6b-71a1-40af-8b6b-37814eef3d33" />
+<img width="367" height="833" alt="image" src="https://github.com/user-attachments/assets/30023520-0262-4a10-90ec-1b5e7c7c0239" />
+<img width="368" height="830" alt="image" src="https://github.com/user-attachments/assets/cbb5fa7d-748b-44cb-9a62-ad348d005e71" />
+<img width="375" height="837" alt="image" src="https://github.com/user-attachments/assets/25a6cb32-6dc4-41b5-8bd0-88c45c61bdc5" />
 
 
 
